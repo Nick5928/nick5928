@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I am Nicholas Jones
 
-<!--
-**Nick5928/nick5928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student at East Carolina University (graduating Dec 2025) and a software developer focused on backend systems and automation.
 
-Here are some ideas to get you started:
+I’ve worked with Go, Python, TypeScript, and JavaScript to build RESTful APIs, backend services, and automation scripts. Recently, I’ve:
+- Developed APIs and serverless functions for mobile apps (TypeScript, Firebase, Django, Node.js)
+- Automated IT workflows and data migrations using REST APIs, PowerShell, Ansible, and SQL Server
+- Built a Go-based CLI tool, **File Custodian**, to analyze directory disk usage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Languages: Go, Python, TypeScript, JavaScript, C, C++
+- Backend & APIs: Node.js, Django, RESTful APIs, Firebase Functions
+- Databases: PostgreSQL, SQLite, Firebase
+- DevOps & Tools: Docker, GitHub Actions, Azure DevOps, Ansible
+- Cloud & Platforms: GCP, ServiceNow
+- Scripting & Automation: PowerShell, automation with REST APIs
